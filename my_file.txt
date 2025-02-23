@@ -3,7 +3,11 @@
 3: Hello, world!
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 0: Hello, world! – from remote
+=======
+7: Hello, world!
+>>>>>>> Stashed changes
 =======
 7: Hello, world!
 >>>>>>> Stashed changes
